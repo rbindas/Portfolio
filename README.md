@@ -1,3 +1,3 @@
-# Bootstrap-Portfolio
+# Roxann M Bindas Portfolio Web-stie
 
-My Personal Web Page utilizing Boostrap
+My Personal Web Page utilizing html
