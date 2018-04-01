@@ -57,7 +57,10 @@ h4 {
 }
 
 p {
-  padding-top: 20px;
+  color: black;
+  /*line-height: 2.0;*/
+  font-size: 18px;
+  padding-top: 10px;
 }
 
 
@@ -105,7 +108,7 @@ header {
   height: 125px;
   position: fixed;
   z-index: 100;
-  overflow: auto;
+  /*overflow: auto;*/
   background-color: #2E2C33;
     border-bottom: 10px solid #00C0FF;
 }
@@ -119,19 +122,6 @@ header {
   margin-top: 30px;
   margin-left: 30px;
 }
-
-#logo {
-  float: left;
-  width: 30%;
-  height: 100%;
-  text-align: center;
- 
-}
-
-#logo img {
-    max-width: 100%;
-}
-
 
 /*  MAIN LAYOUT */
 .container {
@@ -149,6 +139,18 @@ header {
   border: 1px solid #dddddd;
   position: relative;
 }
+
+.gap-right {
+  margin-right: 10px;
+}
+
+.img {
+  display: inline;
+  width: 110px;
+  height: 120px;
+  margin: 10px;
+}
+
 
 /*     Sidebar     */
 .side-bar {
